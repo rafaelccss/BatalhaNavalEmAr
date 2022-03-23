@@ -1,0 +1,27 @@
+[
+  {
+    "libraryIdentifier" : "fd668e8e53bd5d7d82706bcf04c8f3ca",
+    "format" : "model",
+    "displayName" : "navioPirata.usdz"
+  },
+  {
+    "libraryIdentifier" : "40d071834589c53175dd928b9ebf3e1a",
+    "format" : "model",
+    "displayName" : "base.usdz"
+  },
+  {
+    "libraryIdentifier" : "9ead3e2d896c7d037a749340cdd4e3e8",
+    "format" : "model",
+    "displayName" : "navioVermelho.usdz"
+  },
+  {
+    "libraryIdentifier" : "6249b3a06aa7ea8f7e7d9dcead591868",
+    "format" : "model",
+    "displayName" : "navioPirata.usdz"
+  },
+  {
+    "libraryIdentifier" : "3c3a4c4a3543c6860d9d3d893e8a7dbe",
+    "format" : "audio",
+    "displayName" : "bomb.mp3"
+  }
+]
