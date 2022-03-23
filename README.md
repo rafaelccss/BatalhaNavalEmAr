@@ -37,11 +37,9 @@ Termine com um exemplo de como obter dados do sistema ou como usá-los para uma 
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+* [Blender](https://www.blender.org - Modelagem dos barcos
+* [XCode](https://developer.apple.com/xcode/) - IDE usada
+* [Reality Composer](https://developer.apple.com/augmented-reality/tools/) - Montagem da cena
 
 ## 📌 Versão
 
