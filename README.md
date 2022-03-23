@@ -22,7 +22,7 @@ Todos os modelos que utilizamos no tutorial estão disponíveis nos links abaixo
 
 ## ✒️ Autores
 
-* **Manoela** - [Design](https://github.com/manubvf`)
+* **Manoela** - [Design](https://github.com/manubvf)
 * **Rafael** - [Desenvolvedor](https://github.com/rafaelccss)
 * **Vitor Balista** - [Desenvolvedor](https://github.com/vitorbalista)
 
