@@ -1,10 +1,10 @@
 # Batalha Naval em AR
 
-O clássico jogo de batalha naval porém agora implementado com 
+O clássico jogo de batalha naval porém agora implementado com a tecnologia AR, trazendo navios piratas e o tabuleiro pra dentro da sua sala.
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+Siga o passo a passo mostrado no video a seguir para entender como o jogo foi programado
 
 Consulte **Implantação** para saber como implantar o projeto.
 
