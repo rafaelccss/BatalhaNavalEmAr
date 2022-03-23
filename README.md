@@ -26,4 +26,4 @@ Todos os modelos que utilizamos no tutorial estão disponíveis nos links abaixo
 * **Rafael** - [Desenvolvedor](https://github.com/rafaelccss)
 * **Vitor Balista** - [Desenvolvedor](https://github.com/vitorbalista)
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+Você também pode ver a lista de todos os [colaboradores](https://github.com/rafaelccss/BatalhaNavalEmAr/graphs/contributors) que participaram deste projeto.
