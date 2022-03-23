@@ -47,6 +47,14 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
 
+## 🚤 Modelos 3D
+
+Todos os modelos que utilizamos no tutorial estão disponíveis nos links abaixo:
+
+* [Peça base](https://drive.google.com/file/d/1unQvERFAjnZKONzdyPsWUVfIsRlr-cV4/view?usp=sharing)
+* [Navio pirata](https://drive.google.com/file/d/15ukHITTW91v6Yku-BQ1PNPIDKYgB8oPs/view?usp=sharing)
+* [Navio vermelho](https://drive.google.com/file/d/1n5D-2ue2dKF0X7aYRXmDkHlgUlCwIAbU/view?usp=sharing)
+
 ## ✒️ Autores
 
 * **Manoela** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
