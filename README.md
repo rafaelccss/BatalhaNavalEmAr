@@ -37,7 +37,7 @@ Termine com um exemplo de como obter dados do sistema ou como usá-los para uma 
 
 ## 🛠️ Construído com
 
-* [Blender](https://www.blender.org - Modelagem dos barcos
+* [Blender](https://www.blender.org) - Modelagem dos barcos
 * [XCode](https://developer.apple.com/xcode/) - IDE usada
 * [Reality Composer](https://developer.apple.com/augmented-reality/tools/) - Montagem da cena
 
